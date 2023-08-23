@@ -3,27 +3,21 @@
 
 Temperature & Humidity Monitoring System is designed to provide accurate and real-time measurements, this innovative device offers an all-in-one solution for measuring temperature, humidity, and real-world time and date. With its user-friendly interface and customizable options, it empowers users to effortlessly track and analyze environmental conditions, ensuring optimal comfort and productivity in any setting.
 
-## Features:
+### Features:
 
 Our Temperature & Humidity Monitoring System boasts a range of advanced features that set it apart from conventional monitoring devices:
 
-### Triple Measurement Display:
-The device allows users to simultaneously measure and display temperature, humidity, and real-world time and date on a clear and vibrant screen.
+Triple Measurement Display: The device allows users to simultaneously measure and display temperature, humidity, and real-world time and date on a clear and vibrant screen.
 
-### Unit of Measurement Customization: 
-Users have the flexibility to switch between Celsius (C) and Fahrenheit (F) units, catering to different regional and individual preferences.
+Unit of Measurement Customization: Users have the flexibility to switch between Celsius (C) and Fahrenheit (F) units, catering to different regional and individual preferences.
 
-### Temperature Focus: 
-The system primarily emphasizes temperature, offering a detailed breakdown of maximum recorded temperature within the past hour, 24 hours, and 30 days. This valuable data enables users to identify trends and patterns in environmental conditions.
+Temperature Focus: The system primarily emphasizes temperature, offering a detailed breakdown of maximum recorded temperature within the past hour, 24 hours, and 30 days. This valuable data enables users to identify trends and patterns in environmental conditions.
 
-### Verbal Response Feature: 
-The device goes beyond mere numerical readings. It provides intuitive verbal responses to the measured values, such as "comfortable," "too hot," "too cold," etc. This insightful feedback helps users quickly assess their surroundings and make informed decisions to enhance comfort.
+Verbal Response Feature: The device goes beyond mere numerical readings. It provides intuitive verbal responses to the measured values, such as "comfortable," "too hot," "too cold," etc. This insightful feedback helps users quickly assess their surroundings and make informed decisions to enhance comfort.
 
-### Sleek and Intuitive Design: 
-With a modern and compact design, the Temperature & Humidity Monitoring System seamlessly fits into any environment. Its user-friendly interface ensures easy navigation, making it accessible to users of all ages.
+Sleek and Intuitive Design: With a modern and compact design, the Temperature & Humidity Monitoring System seamlessly fits into any environment. Its user-friendly interface ensures easy navigation, making it accessible to users of all ages.
 
-### Battery Efficiency: 
-Equipped with an energy-efficient design, the device guarantees prolonged battery life, ensuring reliable performance in extended usage.
+Battery Efficiency: Equipped with an energy-efficient design, the device guarantees prolonged battery life, ensuring reliable performance in extended usage.
 
 ## Applications:
 The Temperature & Humidity Monitoring System finds diverse applications across various sectors:
